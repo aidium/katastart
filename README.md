@@ -1,7 +1,11 @@
 # Kata Start
 
-Start projekt för java kator med junit 4 eller 5.
+Start projekt fÃ¶r java kator med junit 4 eller 5.
 
-Båda projekten innehåller ett falerande kanarie test.
+BÃ¥da projekten innehÃ¥ller ett falerande kanarie test.
 
-Testkört med eclipse.
+TestkÃ¶rt med eclipse.
+
+FÃ¶r att komma igÃ¥ng:
+1. git clone https://github.com/aidium/katastart.git
+1. Importera som maven projekt i valfri editor
